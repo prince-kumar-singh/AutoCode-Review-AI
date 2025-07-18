@@ -13,8 +13,6 @@ A full-stack AI-powered code review tool using React (Vite) for the frontend and
 - Reviews are formatted in Markdown with syntax highlighting.
 - Modern React frontend with Vite for fast development.
 
-## Example Screenshot
-![AutoCode-Review-AI Screenshot](https://via.placeholder.com/900x400?text=AutoCode-Review-AI+Demo+Screenshot)
 
 ## Prerequisites
 - Node.js (v16 or higher recommended)
